@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsalj17&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vatsalj17&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vatsalj17&label=Profile+Views&style=for-the-badge&color=grey" />
+</div>
+
+## 👨‍💻 Languages and Tools:
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=ffffff&labelColor=00599C)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+
+## 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalj17&layout=compact) 
