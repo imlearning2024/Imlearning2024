@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=ffffff&labelColor=00599C)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![NeoVim]()
 
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlearning2024&layout=compact) 
