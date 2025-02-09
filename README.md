@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsalj17&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imlearning2024&theme=transparent" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vatsalj17&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlearning2024&theme=transparent" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vatsalj17&label=Profile+Views&style=for-the-badge&color=grey" />
+  <img src="https://komarev.com/ghpvc/?username=imlearning2024&label=Profile+Views&style=for-the-badge&color=grey" />
 </div>
 
 ## 👨‍💻 Languages and Tools:
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalj17&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlearning2024&layout=compact) 
